@@ -1,0 +1,9 @@
+name: Last
+version: '${project.version}'
+main: me.tamazone.last.Last
+api-version: 1.19
+commands:
+  monkey:
+    description: hello
+    usage: /<command>
+    default: op
